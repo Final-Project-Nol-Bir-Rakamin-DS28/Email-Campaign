@@ -1,5 +1,5 @@
 # Final Project Marketing Campaign 
-1. [Description](##Description)
+1. [Description](#Description)
 2. [Summary Stage 1 Insight](#Summary-Stage-1-Insight)
 3. [Summary Stage 2 Insight](#Summary-Stage-2-Insight) 
 3. [Summary Stage 3 Insight](#Summary-Stage-3-Insight) 
