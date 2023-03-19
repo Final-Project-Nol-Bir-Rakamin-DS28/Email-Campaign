@@ -15,7 +15,7 @@
 4.	Semakin sedikit pembelian yang dilakukan (baik yang menggunakan diskon ataupun yang melalui web, catalog, store), maka semakin besar kemungkinan customer untuk menerima Response (marketing campaign terakhir). Sehingga perusahaan dapat menargetkan campaign kepada customer dengan jumlah pembelian yang masih sedikit.
 5.	Semakin tinggi jumlah anak/remaja yang dimiliki customer, maka semakin kecil kemungkinan customer menerima Response (marketing campaign terakhir), sehingga lebih baik perusahaan menargetkan campaign kepada customer yang tidak memiliki anak/remaja.
 
-# Summary Stage 2 -4  Insight:
+# Summary Stage 2 - 4  Insight:
 1. Handle Missing Value: menghapus missing value yang ada di kolom Income
 2. Handle Duplicated Data: tidak terdapat data duplikat
 3. Feature Extraction: membuat kolom baru yaitu kolom Age dari kolom Year_Birth, dan kolom Dependent dari kolom Kidhome dan Teenhome
